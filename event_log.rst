@@ -5,7 +5,7 @@ Global/Synoptic
 ===============
 * At 300mb, the area of interest is located in 
 
-.. image:: /home/amedendorp/Desktop/suli_data/case_study_stuff/300_180524_12.gif
+.. image:: 300_180524_12.gif
    :height: 100px
    :width: 200 px
    :scale: 50 %
